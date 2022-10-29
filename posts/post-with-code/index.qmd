@@ -1,0 +1,9 @@
+---
+title: "Zero Cost Abstraction"
+author: "Sanjeevi"
+date: "2022-10-29"
+categories: [Article]
+image: "image.jpg"
+---
+Zero cost abstraction is memory model of system programming language intoduced by creator of c++.
+But here we talk about in the context of rust,a emerging system programming language.
